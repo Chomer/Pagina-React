@@ -1,0 +1,36 @@
+
+.product-details-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+
+  h2 {
+    color: #333;
+  }
+  
+ 
+  .product-info {
+    margin-top: 20px;
+  }
+  
+  .product-info p {
+    margin: 10px 0;
+  }
+ 
+  .product-info strong {
+    color: black; 
+  }
+
+  .product-not-found {
+    color: #ff0000; 
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  
